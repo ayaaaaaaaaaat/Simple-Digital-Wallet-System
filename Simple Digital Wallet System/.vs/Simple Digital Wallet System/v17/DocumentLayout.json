@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ayat\\year 02\\second semester\\Data Structures (DS)\\Simple Digital Wallet System\\Simple Digital Wallet System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03931938-3AA3-4A9C-B007-211D99A48E90}|Simple Digital Wallet System.vcxproj|C:\\ayat\\year 02\\second semester\\Data Structures (DS)\\Simple Digital Wallet System\\Simple Digital Wallet System\\filesHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03931938-3AA3-4A9C-B007-211D99A48E90}|Simple Digital Wallet System.vcxproj|solutionrelative:filesHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03931938-3AA3-4A9C-B007-211D99A48E90}|Simple Digital Wallet System.vcxproj|C:\\ayat\\year 02\\second semester\\Data Structures (DS)\\Simple Digital Wallet System\\Simple Digital Wallet System\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03931938-3AA3-4A9C-B007-211D99A48E90}|Simple Digital Wallet System.vcxproj|solutionrelative:User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03931938-3AA3-4A9C-B007-211D99A48E90}|Simple Digital Wallet System.vcxproj|C:\\ayat\\year 02\\second semester\\Data Structures (DS)\\Simple Digital Wallet System\\Simple Digital Wallet System\\Transaction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03931938-3AA3-4A9C-B007-211D99A48E90}|Simple Digital Wallet System.vcxproj|solutionrelative:Transaction.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03931938-3AA3-4A9C-B007-211D99A48E90}|Simple Digital Wallet System.vcxproj|C:\\ayat\\year 02\\second semester\\Data Structures (DS)\\Simple Digital Wallet System\\Simple Digital Wallet System\\System.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03931938-3AA3-4A9C-B007-211D99A48E90}|Simple Digital Wallet System.vcxproj|solutionrelative:System.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03931938-3AA3-4A9C-B007-211D99A48E90}|Simple Digital Wallet System.vcxproj|C:\\ayat\\year 02\\second semester\\Data Structures (DS)\\Simple Digital Wallet System\\Simple Digital Wallet System\\Admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03931938-3AA3-4A9C-B007-211D99A48E90}|Simple Digital Wallet System.vcxproj|solutionrelative:Admin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d3750d8a-574b-4fb3-b7e2-aa8af40e8231}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "filesHandler.h",
+              "DocumentMoniker": "C:\\ayat\\year 02\\second semester\\Data Structures (DS)\\Simple Digital Wallet System\\Simple Digital Wallet System\\filesHandler.h",
+              "RelativeDocumentMoniker": "filesHandler.h",
+              "ToolTip": "C:\\ayat\\year 02\\second semester\\Data Structures (DS)\\Simple Digital Wallet System\\Simple Digital Wallet System\\filesHandler.h",
+              "RelativeToolTip": "filesHandler.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T21:13:09.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "System.h",
+              "DocumentMoniker": "C:\\ayat\\year 02\\second semester\\Data Structures (DS)\\Simple Digital Wallet System\\Simple Digital Wallet System\\System.h",
+              "RelativeDocumentMoniker": "System.h",
+              "ToolTip": "C:\\ayat\\year 02\\second semester\\Data Structures (DS)\\Simple Digital Wallet System\\Simple Digital Wallet System\\System.h",
+              "RelativeToolTip": "System.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T11:23:52.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.h",
+              "DocumentMoniker": "C:\\ayat\\year 02\\second semester\\Data Structures (DS)\\Simple Digital Wallet System\\Simple Digital Wallet System\\User.h",
+              "RelativeDocumentMoniker": "User.h",
+              "ToolTip": "C:\\ayat\\year 02\\second semester\\Data Structures (DS)\\Simple Digital Wallet System\\Simple Digital Wallet System\\User.h",
+              "RelativeToolTip": "User.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T11:23:52.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaction.h",
+              "DocumentMoniker": "C:\\ayat\\year 02\\second semester\\Data Structures (DS)\\Simple Digital Wallet System\\Simple Digital Wallet System\\Transaction.h",
+              "RelativeDocumentMoniker": "Transaction.h",
+              "ToolTip": "C:\\ayat\\year 02\\second semester\\Data Structures (DS)\\Simple Digital Wallet System\\Simple Digital Wallet System\\Transaction.h",
+              "RelativeToolTip": "Transaction.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T11:23:51.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.h",
+              "DocumentMoniker": "C:\\ayat\\year 02\\second semester\\Data Structures (DS)\\Simple Digital Wallet System\\Simple Digital Wallet System\\Admin.h",
+              "RelativeDocumentMoniker": "Admin.h",
+              "ToolTip": "C:\\ayat\\year 02\\second semester\\Data Structures (DS)\\Simple Digital Wallet System\\Simple Digital Wallet System\\Admin.h",
+              "RelativeToolTip": "Admin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T11:23:50.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
