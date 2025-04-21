@@ -20,5 +20,5 @@ public:
     bool loginUser(const std::string& username, const std::string& password);
     bool registerUser(const std::string& username, const std::string& password);
     void logout();
-    static bool verifyPassword(const std::string& input,const std::string& storedHash);
+    static bool verifyPassword(const std::string& input,const std::string& password);
 };
